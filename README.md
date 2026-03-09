@@ -7,8 +7,8 @@ I'm a teacher, teaching computer
 My skill and interesting are Photographer📸| Edit photo&video🎞️| Pentest⚔️🛡️| Programming💻 -Mern stack, PHP, SQL, Python| Game computer🖥️
 
 * 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [@Portfolio](http://sites.google.com/g.swu.ac.th/kamonphet-profile/home)
-* ✉️  You can contact me at [kamonphet.edt@g.swu.ac.th](mailto:kamonphet.edt@g.swu.ac.th)
+* 🖥️  See my portfolio at [@Portfolio](https://sites.google.com/view/kamonphet-sirirattanasakkul/home)
+* ✉️  You can contact me at [kamonpach.siri@gmail.com](mailto:kamonpach.siri@gmail.com)
 * 🚀  I'm currently working on [Cyber security](http://#)
 * 🧠  I'm learning Upskill network, Cyber sec, Mern stack.
 * ⚡  Sometimes I'm so lazy but I'm very diligent.
