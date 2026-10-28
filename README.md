@@ -73,7 +73,7 @@ I’m a computer teacher who likes turning ideas into hands-on projects. I’m i
 
 <br />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Kamonphet&hide_border=true&background=17152D&ring=63E6FF&fire=FF70B7&currStreakLabel=63E6FF&sideLabels=F2F2FF&dates=B8B6D6" alt="GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Kamonphet&hide_border=true&background=FFFFFF&ring=63E6FF&fire=FF70B7&currStreakLabel=63E6FF&sideLabels=F2F2FF&dates=B8B6D6" alt="GitHub contribution streak" />
 
 </div>
 
