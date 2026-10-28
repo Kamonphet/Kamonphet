@@ -2,8 +2,8 @@
   <img src="https://www.gitskins.com/api/section/hero?username=kamonphet&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F62428925%3Fu%3D5d768144f022a8ae25fcd9f8f8a15dd3536a6a5a%26v%3D4" alt="kamonphet hero visual" />
 </p>
 
-<p align="center"><b>Phet Kamonphet ✅</b> · Frontend or full-stack engineer<br/><sub>I'm a teacher, teaching computer subjects.
-My skill is Photographer📸| Edit photo&amp;video🎞️| Pentest⚔️🛡️| Programming💻 -Mern stack, PHP, SQL, Python</sub></p>
+<p align="center"><b>Phet Kamonphet ✅</b><br/><sub>I'm a teacher, teaching computer.</sub></p>
+<p align="center"><sub>My skill is Photographer📸| Edit photo&amp;video🎞️| Cybersecurity⚔️🛡️| Programming💻 , PHP, SQL, Python</sub></p>
 
 <p align="center"><a href="https://github.com/kamonphet">GitHub</a> · <a href="https://sites.google.com/view/kamonphet-sirirattanasakkul/home">Website</a></p>
 
