@@ -1,65 +1,105 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=180&section=header&text=Phet%20Kamonphet&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Teacher%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=62&descSize=16" alt="Phet Kamonphet — Computer Teacher, Builder, Lifelong Learner" />
 
-  <a href="https://github.com/Kamonphet"><img src="https://img.shields.io/badge/GitHub-Kamonphet-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
-  <a href="https://sites.google.com/view/kamonphet-sirirattanasakkul/home"><img src="https://img.shields.io/badge/Website-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" /></a>
-  <img src="https://img.shields.io/badge/Thailand-🇹🇭-white?style=for-the-badge" alt="Based in Thailand" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,35:111C4E,70:5B21B6,100:06B6D4&text=PHET%20KAMONPHET&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=TEACH%20%E2%80%A2%20BUILD%20%E2%80%A2%20EXPLORE&descSize=16&descAlignY=60&animation=fadeIn" alt="Phet Kamonphet — Teach, Build, Explore" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Computer+Teacher+%F0%9F%91%A8%5D%F0%9F%8F%AB;Learning+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Building+with+PHP+%7C+Python+%7C+SQL;Turning+ideas+into+projects+%E2%9C%A8" alt="Animated introduction" /></a>
+
+<br />
+
+<a href="https://github.com/Kamonphet"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://sites.google.com/view/kamonphet-sirirattanasakkul/home"><img src="https://img.shields.io/badge/MY%20WEBSITE-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<img src="https://komarev.com/ghpvc/?username=Kamonphet&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+
 </div>
 
-## 👋 Hello!
+---
 
-I’m **Phet Kamonphet**, a computer teacher who enjoys turning ideas into useful projects and making technology easier to explore. My interests span **programming, cybersecurity, and visual storytelling** through photography and photo/video editing.
+## `whoami` 👋
 
-> Learn by building, test with curiosity, and share what you discover.
+> **Computer teacher · Programmer · Cybersecurity learner**
+>
+> I enjoy making technology approachable through hands-on learning, useful projects, and a little creative flair. Away from the code, I’m into photography and photo/video editing.
 
-## 🧭 What I’m interested in
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🧑‍🏫 **Computer education** — practical, hands-on learning
-- 🛡️ **Cybersecurity** — defensive security, ethical testing, and learning through CTFs
-- 💻 **Programming** — PHP, Python, SQL, and web projects
-- 📷 **Creative work** — photography and photo/video editing
+### ⚡ In my world
 
-## 🚀 Featured projects
+- 🧑‍🏫 Computer education and learning by doing
+- 🛡️ Cybersecurity, CTFs, and exploring how systems work
+- 💻 Programming with **PHP · Python · SQL**
+- 📸 Photography and photo/video editing
 
-| Project | About |
-| --- | --- |
-| [**zero-trust-game**](https://github.com/Kamonphet/zero-trust-game) | Zero Trust game project. |
-| [**Krutan**](https://github.com/Kamonphet/Krutan) | Project repository. |
-| [**ED-Oasis**](https://github.com/Kamonphet/ED-Oasis) | Project selected for presentation in the 25th NSC competition. |
-| [**NewgenHackathon**](https://github.com/Kamonphet/NewgenHackathon) | Website project for the New Gen Hackathon by YEAH. |
-| [**subnet-test**](https://github.com/Kamonphet/subnet-test) | Project repository. |
-| [**Eng-game_img-tracking**](https://github.com/Kamonphet/Eng-game_img-tracking) | Project repository. |
+</td>
+<td width="50%" valign="top">
 
-<details>
-  <summary><b>🧰 Tools and technologies</b></summary>
-  <br />
-  <p>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-    <img src="https://img.shields.io/badge/Cybersecurity-0F766E?style=flat-square&logo=owasp&logoColor=white" alt="Cybersecurity" />
-    <img src="https://img.shields.io/badge/Photo%20%26%20Video%20Editing-7C3AED?style=flat-square&logo=adobecreativecloud&logoColor=white" alt="Photo and video editing" />
-  </p>
-</details>
+### 🧪 Current mindset
 
-<details>
-  <summary><b>📊 GitHub activity</b></summary>
-  <br />
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kamonphet&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats for Kamonphet" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamonphet&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages for Kamonphet" />
-  </p>
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=Kamonphet&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for Kamonphet" />
-  </p>
-</details>
+```text
+curiosity  >  assumptions
+practice   >  theory alone
+build      >  just imagine
+```
 
-## 🤝 Connect
+**Always learning. Always making.** ✨
 
-- GitHub: [@Kamonphet](https://github.com/Kamonphet)
-- Website: [kamonphet-sirirattanasakkul](https://sites.google.com/view/kamonphet-sirirattanasakkul/home)
+</td>
+</tr>
+</table>
+
+## `featured.repos` 🚀
 
 <div align="center">
-  <sub>Thanks for stopping by — keep learning and keep building! ✨</sub>
+
+<a href="https://github.com/Kamonphet/zero-trust-game"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kamonphet&repo=zero-trust-game&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="zero-trust-game repository card" /></a>
+<a href="https://github.com/Kamonphet/Krutan"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kamonphet&repo=Krutan&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Krutan repository card" /></a>
+<a href="https://github.com/Kamonphet/ED-Oasis"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kamonphet&repo=ED-Oasis&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ED-Oasis repository card" /></a>
+<a href="https://github.com/Kamonphet/NewgenHackathon"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kamonphet&repo=NewgenHackathon&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="NewgenHackathon repository card" /></a>
+
 </div>
 
+<details>
+<summary><b>✨ More projects on my profile</b></summary>
+<br />
+
+- [subnet-test](https://github.com/Kamonphet/subnet-test)
+- [Eng-game_img-tracking](https://github.com/Kamonphet/Eng-game_img-tracking)
+
+</details>
+
+## `toolkit` 🧰
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,python,mysql,git,github,vscode&theme=dark" alt="PHP, Python, MySQL, Git, GitHub, and VS Code" />
+
+</div>
+
+## `stats --live` 📡
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Kamonphet&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="Live GitHub stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamonphet&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Most used languages" />
+
+<br />
+
+<img width="72%" src="https://streak-stats.demolab.com?user=Kamonphet&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+
+</div>
+
+## `connect()` 🤝
+
+<div align="center">
+
+<a href="https://github.com/Kamonphet"><img src="https://img.shields.io/badge/Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow my work on GitHub" /></a>
+<a href="https://sites.google.com/view/kamonphet-sirirattanasakkul/home"><img src="https://img.shields.io/badge/Visit%20my%20website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my website" /></a>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06B6D4,50:5B21B6,100:050816&section=footer" alt="" />
+
+<sub>Thanks for visiting my corner of GitHub. Keep curious and keep building! 💙</sub>
+
+</div>
