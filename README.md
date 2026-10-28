@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="pixel-office.gif" width="100%" alt="Animated pixel art of Phet working at a computer in a cozy cyber classroom" />
+<img src="./pixel-office.gif" width="100%" alt="Animated pixel art of Phet working at a computer in a cozy cyber classroom" />
 
 ### 🕹️ PLAYER 01: PHET KAMONPHET
 **COMPUTER TEACHER · BUILDER · CYBERSECURITY LEARNER**
@@ -15,7 +15,7 @@
 
 ---
 
-## 🟪 `PLAYER PROFILE`
+<h2><img src="./pixel-profile.png" alt="Player profile: Computer Teacher, Builder" /></h2>
 
 ```text
 NAME       Phet Kamonphet
@@ -26,13 +26,13 @@ MISSION    Make technology fun to learn and useful to build
 
 I’m a computer teacher who likes turning ideas into hands-on projects. I’m interested in programming, cybersecurity, and creative media—from exploring systems through CTFs to capturing and editing photos and video.
 
-## 🟦 `SELECT YOUR QUEST`
+<h2><img src="./pixel-quests.png" alt="Select your quest: Teach, Explore, Create" /></h2>
 
 | 🧑‍🏫 **TEACH** | 🛡️ **EXPLORE** | 📸 **CREATE** |
 | :---: | :---: | :---: |
 | Computer education<br />Learn by doing | Cybersecurity<br />CTF practice | Photography<br />Photo & video editing |
 
-## 🟩 `EQUIPPED SKILLS`
+<h2><img src="./pixel-skills.png" alt="Equipped skills" /></h2>
 
 <div align="center">
 
@@ -44,7 +44,7 @@ I’m a computer teacher who likes turning ideas into hands-on projects. I’m i
 
 </div>
 
-## 🟨 `QUEST LOG — FEATURED PROJECTS`
+<h2><img src="./pixel-projects.png" alt="Quest log: Featured projects" /></h2>
 
 <div align="center">
 
@@ -64,7 +64,7 @@ I’m a computer teacher who likes turning ideas into hands-on projects. I’m i
 
 </details>
 
-## 🟥 `PLAYER STATS`
+<h2><img src="./pixel-stats.png" alt="Player stats: Live from the GitHub arcade" /></h2>
 
 <div align="center">
 
@@ -86,3 +86,4 @@ I’m a computer teacher who likes turning ideas into hands-on projects. I’m i
 <sub>Thanks for visiting my pixel corner of GitHub. See you on the next quest! 👾</sub>
 
 </div>
+
